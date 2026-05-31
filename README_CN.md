@@ -75,14 +75,6 @@ CloudflareWarpSpeedTest -n 200 -t 10 -c 5000 -tl 300 -q -tll 0 -tlr 0.2 -p 10 -f
 
 **免责声明**： 本工具与 Cloudflare 无关，也未得到其认可。请负责任地使用并遵守其服务条款。
 
-## License
-
-此软件根据 [GPL v3 许可证](LICENSE) 发布
-
-
-## Supported By
-<a href="https://jb.gg/OpenSourceSupport" target="_blank"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" height='128' style='border:0px;height:128px;' alt="JetBrains Logo (Main) logo."></a>
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=peanut996/CloudflareWarpSpeedTest&type=Date)](https://star-history.com/#peanut996/CloudflareWarpSpeedTest&Date)
