@@ -79,4 +79,4 @@ This software is released under the [GPL v3 license](LICENSE).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=peanut996/CloudflareWarpSpeedTest&type=Date)](https://star-history.com/#peanut996/CloudflareWarpSpeedTest&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=puzige/CloudflareWarpSpeedTest&type=Date)](https://star-history.dera.page/#puzige/CloudflareWarpSpeedTest&Date)

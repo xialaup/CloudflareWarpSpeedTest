@@ -77,5 +77,5 @@ CloudflareWarpSpeedTest -n 200 -t 10 -c 5000 -tl 300 -q -tll 0 -tlr 0.2 -p 10 -f
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=peanut996/CloudflareWarpSpeedTest&type=Date)](https://star-history.com/#peanut996/CloudflareWarpSpeedTest&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=puzige/CloudflareWarpSpeedTest&type=Date)](https://star-history.dera.page/#puzige/CloudflareWarpSpeedTest&Date)
 
